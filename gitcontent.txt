@@ -83,28 +83,16 @@
 10.7 Maintenance and Data Recovery
 10.8 Environment Variables
 10.9 Summary
-A1. Appendix A: Git in Other Environments
-A1.1 Graphical Interfaces
-A1.2 Git in Visual Studio
-A1.3 Git in Eclipse
-A1.4 Git in Bash
-A1.5 Git in Zsh
-A1.6 Git in Powershell
-A1.7 Summary
-A2. Appendix B: Embedding Git in your Applications
-A2.1 Command-line Git
-A2.2 Libgit2
-A2.3 JGit
-A3. Appendix C: Git Commands
-A3.1 Setup and Config
-A3.2 Getting and Creating Projects
-A3.3 Basic Snapshotting
-A3.4 Branching and Merging
-A3.5 Sharing and Updating Projects
-A3.6 Inspection and Comparison
-A3.7 Debugging
-A3.8 Patching
-A3.9 Email
-A3.10 External Systems
-A3.11 Administration
-A3.12 Plumbing Commands
+A. Appendix: Git Commands
+A.1 Setup and Config
+A.2 Getting and Creating Projects
+A.3 Basic Snapshotting
+A.4 Branching and Merging
+A.5 Sharing and Updating Projects
+A.6 Inspection and Comparison
+A.7 Debugging
+A.8 Patching
+A.9 Email
+A.10 External Systems
+A.11 Administration
+A.12 Plumbing Commands
